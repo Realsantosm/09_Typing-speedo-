@@ -52,6 +52,7 @@ userInput.addEventListener("input", () => {
       }
     }
     //If user enter wrong character
+    // trying to learn the logics and understands.....
     else {
       //Checks if we alreasy have added fail class
       if (!char.classList.contains("fail")) {
